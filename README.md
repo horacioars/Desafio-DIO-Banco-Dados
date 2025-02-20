@@ -35,3 +35,10 @@ O esquema deverá ser adicionado a um repositório do Github para futura avalia�
 :arrow_right: A mesma equipe avalia e executa os serviços; <br>
 :arrow_right: Os mecânicos possuem código, nome, endereço e especialidade; <br>
 :arrow_right: Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+# Arquivos :
+:link: [Ordem.pgn](https://github.com/horacioars/Desafio-DIO-Banco-Dados/ordem.pgn) <br>
+:link: [Ordem.mwb](https://github.com/horacioars/Desafio-DIO-Banco-Dados/ordem.mwb)
+
+![MySQL - ecommerce](https://raw.githubusercontent.com/horacioars/Desafio-DIO-Banco-Dados/refs/heads/main/ordem.png)
+
