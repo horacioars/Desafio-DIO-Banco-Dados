@@ -10,5 +10,5 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
 
-![MySQL - ecommerce](https://github.com/horacioars/Desafio-DIO-Bano-Dados/e-commerce.png)
+![MySQL - ecommerce](https://raw.githubusercontent.com/horacioars/Desafio-DIO-Banco-Dados/refs/heads/main/e-commerce.png)
 
