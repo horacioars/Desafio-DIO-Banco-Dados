@@ -9,7 +9,7 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 :arrow_right: Entrega – Possui status e código de rastreio;
 
 # Arquivos :
-:link: [e-commerce.pgn](https://github.com/horacioars/Desafio-DIO-Banco-Dados/e-commercio.pgn)
+:link: [e-commerce.pgn](https://github.com/horacioars/Desafio-DIO-Banco-Dados/e-commercio.pgn) <br>
 :link: [e-commerce.mwb](https://github.com/horacioars/Desafio-DIO-Banco-Dados/e-commercio.mwb)
 
 ![MySQL - ecommerce](https://raw.githubusercontent.com/horacioars/Desafio-DIO-Banco-Dados/refs/heads/main/e-commerce.png)
@@ -27,11 +27,11 @@ O esquema deverá ser adicionado a um repositório do Github para futura avalia�
 :arrow_right: Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
 # Narrativa:
-:arrow_right: Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
-:arrow_right: Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas
-:arrow_right: Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega.
-:arrow_right: A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão-de-obra
-:arrow_right: O valor de cada peça também irá compor a OSO cliente autoriza a execução dos serviços
-:arrow_right: A mesma equipe avalia e executa os serviços
-:arrow_right: Os mecânicos possuem código, nome, endereço e especialidade
+:arrow_right: Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica; <br>
+:arrow_right: Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas; <br>
+:arrow_right: Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega; <br>
+:arrow_right: A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão-de-obra; <br>
+:arrow_right: O valor de cada peça também irá compor a OSO cliente autoriza a execução dos serviços; <br>
+:arrow_right: A mesma equipe avalia e executa os serviços; <br>
+:arrow_right: Os mecânicos possuem código, nome, endereço e especialidade; <br>
 :arrow_right: Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
